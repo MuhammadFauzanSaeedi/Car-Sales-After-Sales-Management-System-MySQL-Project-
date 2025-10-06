@@ -133,5 +133,3 @@ MSc Data Analytics
 *(Berlin School of Business and Innovation BSBI)*
 
 ---
-
-Would you like me to include a **short GitHub project description** (1–2 lines for the repo header), e.g. “MySQL project for car sales and after-sales management system with normalization, analytics, and optimization”?
